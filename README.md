@@ -1,5 +1,7 @@
 # Looking-for-Suspicious-Transactions
 
+Fraud is prevalent these days. While there are emerging technologies that employ machine learning and artificial intelligence to detect fraud, many instances of fraud detection still require strong data analytics to find abnormal charges.
+
 The tool imports csv files and creates a database in postgres.
 
 creates views for the different data table merges and dissections. 
