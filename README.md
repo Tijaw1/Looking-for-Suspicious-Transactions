@@ -1,3 +1,5 @@
+![Suspicious](https://github.com/Tijaw1/Looking-for-Suspicious-Transactions/blob/main/sus.png)
+
 # Looking-for-Suspicious-Transactions
 
 Fraud is prevalent these days. While there are emerging technologies that employ machine learning and artificial intelligence to detect fraud, many instances of fraud detection still require strong data analytics to find abnormal charges.
